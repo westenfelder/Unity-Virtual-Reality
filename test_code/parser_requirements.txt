@@ -1,0 +1,5 @@
+wheel==0.40.0
+customtkinter==5.1.2
+pyshark==0.5.3
+python-nmap==0.7.1
+mac_vendor_lookup==0.1.12
